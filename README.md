@@ -10,11 +10,11 @@ Wondering how my database got hacked? Pretty simple, actually:
 
  This was my initial ransom note:
 
- ![ransom note][images/hackeddb.jpg]
+ ![ransom note](images/hackeddb.jpg)
 
  I inadvertently left my database server running for a short period of time. And wouldn't ya know it: it got hacked again:
 
- ![2nd ransom note][images/doublehack.png]
+ ![2nd ransom note](images/doublehack.png)
 
 Ok - enough of hacked databases. Timme to un-hack-ify. This talk presents four simple "low-hanging fruit" things you can do, to help lock down your database:
 
