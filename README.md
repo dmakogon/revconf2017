@@ -74,6 +74,7 @@ db.createUser(
     roles: [ { role: "dbOwner", db: "revconf" } ]
   }
 )
+```
 
 At this point, the app server can connect with these credentials:
 
